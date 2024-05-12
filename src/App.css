@@ -42,15 +42,24 @@ li a:hover {
 
 .content{
   display: flex;
-  border: solid bisque;
+  
   text-align: center;
   margin-top: 20px;
 
 }
 .image{
-  border: solid blueviolet;
-  margin-left: 900px;
+  
+  margin-left: 50px;
   margin-top: 20px;
+  
+}
+h1{
+  margin-right: 0px;
+  margin-left: 400px;
+  margin-top: 220px;
+  padding: 90px;
+  color: rgb(224, 148, 61);
+  font-size: 60px;
   
 }
 
