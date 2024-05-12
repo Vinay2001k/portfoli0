@@ -107,8 +107,8 @@ h1{
 }
 
 .skills{
-  
-  padding-bottom: 200px;
+  display: flex;
+  padding-bottom: 100px;
 }
 
 .head2{
@@ -119,6 +119,24 @@ h1{
 .points{
   margin-left: 500px;
 }
+.righty{
+  margin-top: 250px;
+  margin-left: 350px;
+}
+
+.image3{
+  height: 45%;
+  width: 15%;
+}
+.image4{
+  height: 45%;
+  width: 15%;
+}
+.image5{
+  height: 45%;
+  width: 15%;
+}
+
 
 .Projects{
   background-color: rgb(8, 58, 102);

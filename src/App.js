@@ -31,6 +31,7 @@ function App() {
       </div>
     </section>
     <section className='skills'>
+      <div className='lefty'>
       <h1 className='head2'>Skills</h1>
       <div className='points'>
       <h2>C++</h2>
@@ -39,6 +40,12 @@ function App() {
       <h2>Javascript</h2>
       <h2>Machine Learning</h2>
       <h2></h2>
+      </div>
+      </div>
+      <div className='righty'>
+        <img className='image3' src='https://i.postimg.cc/L60rtnLz/pngwing-com-1.png' />
+        <img className='image4' src='https://i.postimg.cc/L8TsTk4J/pngwing-com-2.png' />
+        <img className='image5' src='https://i.postimg.cc/zfvqF9PQ/pngwing-com-3.png' />
       </div>
     </section>
     <section className='Projects'>
