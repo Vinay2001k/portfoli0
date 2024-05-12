@@ -42,7 +42,6 @@ li a:hover {
 
 .content{
   display: flex;
-  
   text-align: center;
   margin-top: 20px;
 
@@ -66,7 +65,7 @@ h1{
   background-color: rgb(8, 58, 102);
   padding-bottom: 350px;
   text-align: center;
-  border: solid black;
+  
   display: flex
  
 }
