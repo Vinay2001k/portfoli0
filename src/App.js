@@ -30,6 +30,20 @@ function App() {
       </div>
       </div>
     </section>
+    <section className='skills'>
+      <h1 className='head2'>Skills</h1>
+      <div className='points'>
+      <h2>C++</h2>
+      <h2>python</h2>
+      <h2>HTML-CSS</h2>
+      <h2>Javascript</h2>
+      <h2>Machine Learning</h2>
+      <h2></h2>
+      </div>
+    </section>
+    <section className='Projects'>
+      <h1>Projects</h1>
+    </section>
     </div>
   );
 }

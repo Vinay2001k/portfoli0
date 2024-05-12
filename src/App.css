@@ -106,6 +106,22 @@ h1{
   height: 85%;
 }
 
+.skills{
+  
+  padding-bottom: 200px;
+}
 
+.head2{
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.points{
+  margin-left: 500px;
+}
+
+.Projects{
+  background-color: rgb(8, 58, 102);
+}
 
 
