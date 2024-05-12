@@ -16,6 +16,20 @@ function App() {
         <img className='image' src='https://i.postimg.cc/xTQ8hD34/pngegg.png' />
       </div>
     </header> 
+    <section className='about'>
+      <div className='leftc'>
+      <h1 className='head'>About me</h1>
+      <div className='para'>
+      <p>A computer science and engineering student with a strong interest in web development and Machine Learning, seeking opportunities
+        to apply technical skills and contribute to innovative projects.
+        Eager to Learn and collaborate in a dynamic environment.
+      </p>
+      </div>
+      </div>
+      <div className='rightc'>
+        <img className='image2' src='https://i.postimg.cc/c48w65W7/pngwing-com.png' />
+      </div>
+    </section>
     </div>
   );
 }
