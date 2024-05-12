@@ -17,6 +17,9 @@ function App() {
       </div>
     </header> 
     <section className='about'>
+    <div className='rightc'>
+        <img className='image2' src='https://i.postimg.cc/c48w65W7/pngwing-com.png' />
+      </div>
       <div className='leftc'>
       <h1 className='head'>About me</h1>
       <div className='para'>
@@ -25,9 +28,6 @@ function App() {
         Eager to Learn and collaborate in a dynamic environment.
       </p>
       </div>
-      </div>
-      <div className='rightc'>
-        <img className='image2' src='https://i.postimg.cc/c48w65W7/pngwing-com.png' />
       </div>
     </section>
     </div>
